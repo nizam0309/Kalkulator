@@ -11,14 +11,6 @@ Kalkulator web sederhana ini dibuat menggunakan **HTML**, **CSS**, dan **JavaScr
 - **Tombol Hasil (=)**: Menghitung dan menampilkan hasil dari ekspresi yang dimasukkan.
 - **Desain Responsif**: Antarmuka dapat digunakan dengan baik di berbagai ukuran layar perangkat.
 
-## Screenshot
-
-Tampilan kalkulator setelah dijalankan di browser:
-
-![Screenshot Kalkulator](![![1](https://github.com/user-attachments/assets/02cb3828-fa40-445a-995b-26823d03d9bc)
-]()
-)
-
 ## Teknologi yang Digunakan
 
 - **HTML**: Struktur halaman web.
