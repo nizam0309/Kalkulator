@@ -15,7 +15,7 @@ Kalkulator web sederhana ini dibuat menggunakan **HTML**, **CSS**, dan **JavaScr
 
 Tampilan kalkulator setelah dijalankan di browser:
 
-![Screenshot Kalkulator](![![1](https://github.com/user-attachments/assets/526c09ba-0d2f-4d28-8784-1a7febe34cb4)
+![Screenshot Kalkulator](![![1](https://github.com/user-attachments/assets/02cb3828-fa40-445a-995b-26823d03d9bc)
 ]()
 )
 
