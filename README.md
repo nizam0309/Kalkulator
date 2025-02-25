@@ -17,13 +17,3 @@ Kalkulator web sederhana ini dibuat menggunakan **HTML**, **CSS**, dan **JavaScr
 - **CSS**: Desain dan layout untuk antarmuka pengguna.
 - **JavaScript**: Logika kalkulator, termasuk penanganan perhitungan dan interaksi pengguna.
 
-## Cara Menjalankan Proyek
-
-Untuk menjalankan aplikasi kalkulator ini di komputer lokal Anda, ikuti langkah-langkah berikut:
-
-### 1. Meng-clone Repository
-
-Clone repositori ini menggunakan perintah `git` berikut:
-
-```bash
-git clone https://github.com/username-anda/kalkulator-web.git
