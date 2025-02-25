@@ -8,7 +8,6 @@ Hasil Perhitungan: Setelah pengguna mengetikkan ekspresi matematika, tombol "=" 
 Clear dan Backspace: Tombol AC untuk menghapus seluruh input dan tombol C untuk menghapus satu karakter terakhir.
 
 Struktur File
-
 1.HTML: Bagian struktur dasar dari kalkulator, dengan tombol untuk angka dan operator.
 2.CSS: Digunakan untuk memberikan gaya visual, seperti warna latar belakang, tata letak tombol, dan font.
 3.JavaScript: Digunakan untuk mengelola interaksi pengguna dan menghitung hasil perhitungan.
